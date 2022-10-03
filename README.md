@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Daviiiiiiii
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Ruby 
+- 🌱 I’m currently learning Kotlin 
