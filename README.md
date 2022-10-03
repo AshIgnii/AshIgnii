@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Daviiiiiiii
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in quantum computers
 - 🌱 I’m currently learning Kotlin 
