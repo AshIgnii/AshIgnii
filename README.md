@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AshIgnii
-- 👀 I’m interested in quantum computing
-- 🌱 I’m currently learning Kotlin 
+- 👀 I’m interested in quantum computing, robotics and physics simulations
+- 🌱 I’m currently learning Kotlin, Lua and C#
