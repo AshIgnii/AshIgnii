@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning C and C++
 - 🎓 Currently in my 1st year of a Computer Science degree
 
-- Languages:
+- Languages i use:
 	- Javascript
 	- Lua
 	- Python 
 	- Ruby 
 	- Kotlin
-	-	C# 
+	- C# 
 	- C
 	- C++
