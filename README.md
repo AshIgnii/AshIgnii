@@ -14,7 +14,7 @@
       C# [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" width=15 height=15>](https://wikipedia.org/wiki/C_Sharp) |
       C [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width=15 height=15>](https://en.wikipedia.org/wiki/C_(programming_language)) |
       C++ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=15 height=15>](https://wikipedia.org/wiki/C%2B%2B) |
-
-<img src="https://raw.githubusercontent.com/AshIgnii/AshIgnii/main/main.svg"/>
+  
+[//]: <> (<img src="https://raw.githubusercontent.com/AshIgnii/AshIgnii/main/main.svg"/>)
 
   	
