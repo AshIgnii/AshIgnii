@@ -5,6 +5,6 @@
 
 - Experience:
 
-![](./main.svg)
+<img src="./main.svg"/>
 
   	
