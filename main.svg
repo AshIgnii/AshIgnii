@@ -7,13 +7,10 @@
       display: block; 
     }
     </style>
-    <h1>
-      sex
-    </h1>
     <div>
-      <h1>
+      <a>
         Javascript
-      </h1>
+      </a>
       <img src="./icons/js.png" width="15" height="15"/>
       <a>
         Lua
