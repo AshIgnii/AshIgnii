@@ -8,40 +8,47 @@
   <div>
     <a>
       Javascript
-      <img src="./icons/js.png" width="15" height="15"/>
     </a>
+    <img src="./icons/js.png" width="15" height="15"/>
+    
     <a>
       Lua
-      <img src="./icons/lua.png" width="15" height="15"/>
     </a>
+    <img src="./icons/lua.png" width="15" height="15"/>
+    
     <a>
       Python
-      <img src="./icons/python.png" width="15" height="15"/>
     </a>
+    <img src="./icons/python.png" width="15" height="15"/>
+    
     <a>
       Ruby
-      <img src="./icons/ruby.png" width="15" height="15"/>
     </a>
+    <img src="./icons/ruby.png" width="15" height="15"/>
+    
     <a>
       Ruby on Rails
-      <img src="./icons/rubyonrails.png" width="15" height="15"/>
     </a>
+    <img src="./icons/rubyonrails.png" width="15" height="15"/>
+    
     <a>
       Kotlin
-      <img src="./icons/kotlin.png" width="15" height="15"/>
     </a>
+    <img src="./icons/kotlin.png" width="15" height="15"/>
+    
     <a>
       C#
-      <img src="./icons/csharp.png" width="15" height="15"/>
     </a>
+    <img src="./icons/csharp.png" width="15" height="15"/>
+    
     <a>
       C
-      <img src="./icons/c.png" width="15" height="15"/>
     </a>
+    <img src="./icons/c.png" width="15" height="15"/>
+    
     <a>
       C++
-      <img src="./icons/cplusplus" width="15" height="15"/>
-      (https://wikipedia.org/wiki/C%2B%2B)
     </a>
+    <img src="./icons/cplusplus" width="15" height="15"/>
   </div>
 </svg>
