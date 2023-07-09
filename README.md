@@ -5,6 +5,6 @@
 
 - Experience:
 
-<img src="./main.svg" style="width: 100%;">
+![](./main.svg)
 
   	
