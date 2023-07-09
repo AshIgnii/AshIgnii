@@ -4,7 +4,7 @@
 - 🎓 Currently in my 1st year of a Computer Science degree
 
 - Experience:
-    <div style="width: 100%;">
-      <img src="./main.svg" style="width: 100%;" alt="Click to see the source">
-    </div>
+
+<img src="./main.svg" style="width: 100%;">
+
   	
