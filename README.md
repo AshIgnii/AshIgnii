@@ -5,6 +5,6 @@
 
 - Experience:
 
-<img src="./main.svg"/>
+<img src="./main.svg?sanitize=true"/>
 
   	
