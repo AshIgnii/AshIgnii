@@ -5,6 +5,6 @@
 
 - Experience:
 
-<img src="https://raw.githubusercontent.com/AshIgnii/AshIgnii/main/main.svg?sanitize=true"/>
+<img src="https://raw.githubusercontent.com/AshIgnii/AshIgnii/main/main.svg"/>
 
   	
