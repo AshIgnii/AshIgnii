@@ -6,6 +6,7 @@
 - Experience: <br>
       |
       Javascript [<img src="./icons/js.png" width=15 height=15>](https://wikipedia.org/wiki/JavaScript) |
+      Typescript [<img src="./icons/js.png" width=15 height=15>](https://www.typescriptlang.org/) |
       Lua [<img src="./icons/lua.png" width=15 height=15>](https://www.lua.org/) |
       Python [<img src="./icons/python.png" width=15 height=15>](https://www.python.org/) |
       Ruby [<img src="./icons/ruby.png" width=15 height=15>](https://ruby-lang.org) |
