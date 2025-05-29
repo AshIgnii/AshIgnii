@@ -15,6 +15,3 @@
       C++ [<img src="./icons/cplusplus.png" width=15 height=15>](https://wikipedia.org/wiki/C%2B%2B) |
       Java [<img src="./icons/java.png" width=15 height=15>](https://www.java.com/) |
   
-[//]: <> (<img src="https://raw.githubusercontent.com/AshIgnii/AshIgnii/main/main.svg"/>)
-
-  	
