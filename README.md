@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AshIgnii
-- 👀 I’m interested in quantum computing, robotics and physics simulations
 - 🌱 I’m currently learning C, C#, C++ and Java 
 - 🎓 Currently in the 3rd year of my Computer Science degree
 
